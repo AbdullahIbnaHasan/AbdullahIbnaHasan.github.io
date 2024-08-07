@@ -43,7 +43,8 @@ redirect_from:
   Duration: 2013 - 2015 <br>
   **GPA:** 5.00/5.00 scale <br>
 
-## Research Interests
+## Research Interests:
+---
 - Diagnosis of various infections and host-pathogen interactions, molecular epidemiology, 
 characterizations including antigenic analysis of structural components, genome structure and 
 expression.
@@ -53,11 +54,10 @@ expression.
 - Antimicrobial resistance.
 - Biofilms formation.
 
----
 
 
-## Research Experiences
 
+## Research Experiences:
 ---
 
 ### Research Student (Jan’22 – Present)
@@ -70,6 +70,18 @@ microorganisms using colony morphology, gram staining, different biochemical tes
 Antibiotic Sensitivity Test, Biofilm microplate test, Tube adherence test.
 - **Molecular biology techniques:** DNA extraction, PCR, Gel electrophoresis 
 - Serological Test: ELISA
+
+## Internship Experiences:
+### Total Duration: 6 Months
+- Veterinary Teaching Hospital, BAU, Mymensingh
+- Upazila Livestock Office and Veterinary Hospital, Trishal, Mymensingh 
+- Livestock Research Institute, Mohakhali, Dhaka 
+- Military farm, Savar 
+- Bangladesh National Zoo, Mirpur, Dhaka 
+- Teaching and Training Pet Hospital and Research Center, Purbachal, Dhaka
+- Central Disease Investigation Laboratory, Dhaka 
+- Central Veterinary Hospital, Dhaka
+- BRAC Artificial Insemination Enterprise, Shambhugonj, Mymensingh 
 
 
 ## Leadership Experiences:
