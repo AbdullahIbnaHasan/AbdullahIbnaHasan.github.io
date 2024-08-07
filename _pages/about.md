@@ -14,11 +14,20 @@ redirect_from:
   
   I have good communication and leadership skills. Also possess an enthusiastic, optimistic, and quick learning spirit of working hard to improve skills and assimilate new techniques and technologies, applying them consciously to make productive and successful outcomes. I strongly believe in teamwork and always takes care of my responsibilities. 
 <br>
-
-**Interests:** Antibiotic Resistance, Host-Microbe interactions, Novel Vaccine discovery, Food Safety, Foodborne Pathogens, One Health, Microbiology, Zoonosis, Microbial Ecology, and Animal Biology
 </p>
 
 ---
+## Research Interests:
+- Antibiotic Resistance
+- Host-Microbe interactions
+- Novel Vaccine discovery
+- Food Safety
+- Foodborne Pathogens
+- One Health
+- Microbiology
+- Zoonosis
+- Microbial Ecology
+- Animal Biology
 
 ## Skills:
 - Animal Handling: Sample collection (Blood, Organs, Tissues, swabs), Necropsy.
