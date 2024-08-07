@@ -5,16 +5,20 @@ permalink: /education/
 author_profile: true
 ---
 
-<!-- B.Sc. -->
+<!-- MS -->
+- [**Bangladesh Agricultural University**](https://bau.edu.bd/) <br>
+  Master's of Science (MS) in Microbiology (Ongoing)
+  Department of Microbiology & Hygiene
+  **Thesis Title:** Diversity, Antibiotic Resistance, and Biofilm-Forming Ability of Enterobacteria Isolated 
+  from Red Meats.
 
-- [**Ahsanullah University of Science and Technology**](https://aust.edu) <br>
-  Bachelor of Science (B.Sc.) <br>
-  Computer Science and Engineering <br>
-  **Undergraduate Thesis Title:** Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach <br>
-  **CGPA:** 3.32 out of 4.0<br>
+<!-- DVM -->
+- [**Bangladesh Agricultural University**](https://bau.edu.bd/) <br>
+  Doctor of Veterinary Medicine (DVM) <br>
+  Faculty of Veterinary Medicine <br>
+  **CGPA:** 3.712 out of 4.0<br>
 
 <!-- HSC -->
-
 - [**Dhaka College**](http://dhakacollege.edu.bd/) <br>
   Higher Secondary Certificate (HSC) <br>
   Duration: 2015 - 2017 <br>
