@@ -13,9 +13,7 @@ redirect_from:
 
 ---
 
-## Education
-
----
+## Education:
 
 <!-- MS -->
 - [**Bangladesh Agricultural University**](https://bau.edu.bd/) <br>
@@ -44,7 +42,6 @@ redirect_from:
   **GPA:** 5.00/5.00 scale <br>
 
 ## Research Interests:
----
 - Diagnosis of various infections and host-pathogen interactions, molecular epidemiology, 
 characterizations including antigenic analysis of structural components, genome structure and 
 expression.
@@ -55,11 +52,7 @@ expression.
 - Biofilms formation.
 
 
-
-
 ## Research Experiences:
----
-
 ### Research Student (Jan’22 – Present)
 #### **MTR lab** at the **Department of Microbiology & Hygiene**, Bangladesh Agricultural 
 University under the supervision of **Prof. Md Tanvir Rahman**
@@ -85,12 +78,10 @@ Antibiotic Sensitivity Test, Biofilm microplate test, Tube adherence test.
 
 
 ## Leadership Experiences:
----
 Arranged a seminar on “A Comprehensive Guide to Higher Studies in the USA” at Shilpacharya Zainul Abedin 
 Auditorium, Bangladesh Agricultural University, Mymensingh-2202.
 
 ## Training:
----
 ### Basic Knowledge of Computer and Microsoft Office applications (Feb’24-Mar’24)
 Arranged by: Graduate Training Institute & ICT Ministry of Bangladesh <br>
 Duration: 20 days
@@ -113,7 +104,6 @@ Duration: 6 days
 report writings.
 
 ## Awards & Achievements:
----
 ### Certifications:
 - Veterinary Practitioner, [Bangladesh Veterinary Council (BVC)](https://bvc.gov.bd/). Registration Number: 8801
 - Certificate of Participation on a week-long **“Extension Field Trip program”, Department of 
