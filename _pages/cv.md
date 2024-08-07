@@ -43,6 +43,19 @@ redirect_from:
   Duration: 2013 - 2015 <br>
   **GPA:** 5.00/5.00 scale <br>
 
+## Research Interests
+- Diagnosis of various infections and host-pathogen interactions, molecular epidemiology, 
+characterizations including antigenic analysis of structural components, genome structure and 
+expression.
+- Safe food production and control of food-borne infections and zoonotic diseases.
+- Investigating new methods for preventing and controlling common arthropod-borne diseases. 
+- Poultry and livestock management and Hygiene.
+- Antimicrobial resistance.
+- Biofilms formation.
+
+---
+
+
 ## Research Experiences
 
 ---
