@@ -125,8 +125,28 @@ Agricultural Extension Education, BAU, November 2022**
 
 ## Skills
 
----
-
 - **Soft skills:** Microsoft Excel, Microsoft Word, PowerPoint
 - **Laboratory skills:** Sample collection, sample preservation, Media preparation, Bacteria culture and isolation, Antibiotic sensitivity test (Disk test), PCR, Gel electrophoresis, Gram staining, ELISA, Necropsy
 - **Communication Skills:** English, Bangla, Japanese (Basic)
+
+  ## References
+- Dr. Md Tanvir Rahman
+  Professor
+  Department of Microbiology and Hygiene
+  Faculty of Veterinary Science 
+  Bangladesh Agricultural University, 
+  Mymensingh-2202
+  Mobile: +880-1913323307
+  Office: +88 -091-67401 ext.6385
+  Email: tanvirahman@bau.edu.bd
+
+-Dr. Mahbubul Pratik Siddique
+  Professor
+  Department of Microbiology and Hygiene
+  Faculty of Veterinary Science 
+  Bangladesh Agricultural University, 
+  Mymensingh-2202
+  Mobile: +880-1751945123
+  Office: 880-91-67401-6 Ext.63225
+  Email: mpsiddique@bau.edu.bd
+
