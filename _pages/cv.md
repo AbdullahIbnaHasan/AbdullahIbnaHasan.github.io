@@ -130,23 +130,23 @@ Agricultural Extension Education, BAU, November 2022**
 - **Communication Skills:** English, Bangla, Japanese (Basic)
 
   ## References
-- Dr. Md Tanvir Rahman
-  Professor
-  Department of Microbiology and Hygiene
-  Faculty of Veterinary Science 
-  Bangladesh Agricultural University, 
-  Mymensingh-2202
-  Mobile: +880-1913323307
-  Office: +88 -091-67401 ext.6385
-  Email: tanvirahman@bau.edu.bd
+- Dr. Md Tanvir Rahman <br>
+  Professor <br>
+  Department of Microbiology and Hygiene <br>
+  Faculty of Veterinary Science <br>
+  Bangladesh Agricultural University, <br>
+  Mymensingh-2202 <br>
+  Mobile: +880-1913323307 <br>
+  Office: +88 -091-67401 ext.6385 <br>
+  Email: tanvirahman@bau.edu.bd 
 
--Dr. Mahbubul Pratik Siddique
-  Professor
-  Department of Microbiology and Hygiene
-  Faculty of Veterinary Science 
-  Bangladesh Agricultural University, 
-  Mymensingh-2202
-  Mobile: +880-1751945123
-  Office: 880-91-67401-6 Ext.63225
-  Email: mpsiddique@bau.edu.bd
+- Dr. Mahbubul Pratik Siddique <br>
+  Professor  <br>
+  Department of Microbiology and Hygiene <br>
+  Faculty of Veterinary Science <br>
+  Bangladesh Agricultural University, <br>
+  Mymensingh-2202 <br>
+  Mobile: +880-1751945123 <br>
+  Office: 880-91-67401-6 Ext.63225 <br>
+  Email: mpsiddique@bau.edu.bd <br>
 
