@@ -15,8 +15,8 @@ author_profile: true
 <!-- DVM -->
 - [**Bangladesh Agricultural University**](https://bau.edu.bd/) <br>
   Doctor of Veterinary Medicine (DVM) <br>
-  Faculty of Veterinary Medicine <br>
-  **CGPA:** 3.712 out of 4.0<br>
+  Faculty of Veterinary Science <br>
+  **CGPA:** 3.712 out of 4.00<br>
 
 <!-- HSC -->
 - [**Dhaka College**](http://dhakacollege.edu.bd/) <br>
