@@ -71,6 +71,12 @@ Antibiotic Sensitivity Test, Biofilm microplate test, Tube adherence test.
 - **Molecular biology techniques:** DNA extraction, PCR, Gel electrophoresis 
 - Serological Test: ELISA
 
+
+## Leadership Experiences:
+---
+Arranged a seminar on “A Comprehensive Guide to Higher Studies in the USA” at Shilpacharya Zainul Abedin 
+Auditorium, Bangladesh Agricultural University, Mymensingh-2202.
+
 ## Training:
 ---
 ### Basic Knowledge of Computer and Microsoft Office applications (Feb’24-Mar’24)
