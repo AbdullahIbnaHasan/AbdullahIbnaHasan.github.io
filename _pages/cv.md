@@ -71,6 +71,16 @@ Antibiotic Sensitivity Test, Biofilm microplate test, Tube adherence test.
 - **Molecular biology techniques:** DNA extraction, PCR, Gel electrophoresis 
 - Serological Test: ELISA
 
+## Awards & Achievements:
+### Certifications:
+- Veterinary Practitioner, [Bangladesh Veterinary Council (BVC)](https://bvc.gov.bd/). Registration Number: 8801
+- Certificate of Participation on a week-long **“Extension Field Trip program”, Department of 
+Agricultural Extension Education, BAU, November 2022**
+- Antimicrobial resistance -theory and methods, **Coursera, August 2021**
+- Bacteria and Chronic Infections, **Coursera, August 2021**
+- Fundamentals of Immunology: Innate Immunity and B-Cell Function, **Coursera, September 2021**
+- Fundamentals of Immunology: T cells and Signaling, **Coursera, September 2021**
+
 ## Skills
 
 ---
