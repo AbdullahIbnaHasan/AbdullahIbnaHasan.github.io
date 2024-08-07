@@ -11,7 +11,7 @@ author_profile: true
   Department of Microbiology & Hygiene <br>
   **Thesis Title:** Diversity, Antibiotic Resistance, and Biofilm-Forming Ability of Enterobacteria Isolated 
   from Red Meats.
-  **Supervisor:** [Dr. Md. Tanvir Rahman](), Professor, Department of Microbiology & Hygiene, BAU
+  **Supervisor:** [Dr. Md. Tanvir Rahman](https://vmh.bau.edu.bd/profile/VMH1005), Professor, Department of Microbiology & Hygiene, BAU
 
 <!-- DVM -->
 - [**Bangladesh Agricultural University**](https://bau.edu.bd/) <br>
