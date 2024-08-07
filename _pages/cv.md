@@ -77,7 +77,7 @@ Antibiotic Sensitivity Test, Biofilm microplate test, Tube adherence test.
 
 - **Soft skills:** Microsoft Excel, Microsoft Word, PowerPoint
 - **Laboratory skills:** Sample collection, sample preservation, Media preparation, Bacteria culture and isolation, Antibiotic sensitivity test (Disk test), PCR, Gel electrophoresis, Gram staining, ELISA, Necropsy
-- **Communication Oral and written communication:** English, Bangla, Japanese (Basic)
+- **Communication Skills:** English, Bangla, Japanese (Basic)
 
 
 ## Additional Information
