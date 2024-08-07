@@ -8,28 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:black; font-family:Georgia">Greetings!!!</span>
-
 <p style="text-align:justify; color:black; font-family:Georgia">
-  This is Faysal Mahmud. I obtained my Bachelor's degree in Computer Science and Engineering from  
-  <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. Working in prestigious AI research labs is my dream career path. <br>
-  My research interests include, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Natural language processing.
+  Hey, this is Dr. Md Abdullah Evna Hasan, I have completed my DVM degree (2018-2023) from Bangladesh Agricultural University. Currently, I am pursuing my Master's Degree in Microbiology at the Department of Microbiology And Hygiene as well as working as a Graduate Research Assistant at Professor Dr. Tanvir Rahman's Lab since April 2024. I am working on various projects involving organisms such as Enterococcus spp. , E coli and pseudomonas spp. 
+<br>
+  
+  I have good communication and leadership skills. Also possess an enthusiastic, optimistic, and quick learning spirit of working hard to improve skills and assimilate new techniques and technologies, applying them consciously to make productive and successful outcomes. I strongly believe in teamwork and always takes care of my responsibilities. 
+<br>
+
+**Interests:** Antibiotic Resistance, Host-Microbe interactions, Novel Vaccine discovery, Food Safety, Foodborne Pathogens, One Health, Microbiology, Zoonosis, Microbial Ecology, and Animal Biology
 </p>
 
-**For additional information, please see the [CV](https://faysal-md.github.io//cv/) and [publications](https://faysal-md.github.io/publications/).**
-
 ---
 
-## Interests
+## Skills:
+- Animal Handling: Sample collection (Blood, Organs, Tissues, swabs), Necropsy.
+- Microbiology techniques: Isolation, cultivation, reviving, and identification of microorganisms using colony morphology,   
+  gram staining, different biochemical tests, and molecular biology.
+- Molecular biology techniques: DNA extraction, PCR, Gel electrophoresis.
+- Computational skills: programming language (R), SPSS, Microsoft Excel.
 
-- **Computer Vision**
-- **Natural Language Processing**
-- **Explainable Artificial Intelligence**
-
----
-
-## Latest News
-
-- <span style="font-family:Monaco; color:black;"><span style="color:Blue">[November 2023]</span> Our Paper [An Interpretable Deep Learning Approach for Skin Cancer Categorization](https://arxiv.org/pdf/2312.10696.pdf) got accepted at [ICCIT 2023](https://iccit.org.bd/2023/)!</span>
-
-- <span style="font-family:Monaco; color:black;"><span style="color:Blue">[November 2023]</span> Our Paper [Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach](https://arxiv.org/pdf/2312.10740.pdf) got accepted at [ICCIT 2023](https://iccit.org.bd/2023/)!</span>
