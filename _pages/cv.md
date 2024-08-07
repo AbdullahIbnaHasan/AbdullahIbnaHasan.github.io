@@ -75,10 +75,10 @@ Antibiotic Sensitivity Test, Biofilm microplate test, Tube adherence test.
 
 ---
 
-- **Programming Languages:** Python, Java, C++
-- **Machine Learning & Deep Learning Libraries:** TensorFlow, Keras, PyTorch, NumPy, Pandas, Matplotlib, Sklearn
-- **Database:** MySQL, MSSQL, PL/SQL
-- **Version Control & OS:** Git, GitHub, Windows, Linux
+- **Soft skills:** Microsoft Excel, Microsoft Word, PowerPoint
+- **Laboratory skills:** Sample collection, sample preservation, Media preparation, Bacteria culture and isolation, Antibiotic sensitivity test (Disk test), PCR, Gel electrophoresis, Gram staining, ELISA, Necropsy
+- **Communication Oral and written communication:** English, Bangla, Japanese (Basic)
+
 
 ## Additional Information
 
@@ -107,3 +107,5 @@ Antibiotic Sensitivity Test, Biofilm microplate test, Tube adherence test.
 ### Volunteer Activity
 
 - **University Transport Ordinator:** I Ensured daily safe transportation for nearly 200 students by actively maintaining our university bus route, demonstrating a commitment to reliability and safety.
+
+
