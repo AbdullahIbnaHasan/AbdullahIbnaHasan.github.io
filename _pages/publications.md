@@ -7,8 +7,6 @@ author_profile: true
 
 
 
-
-
 <!-- Paper 02 -->
 
 <!-- 
