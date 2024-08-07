@@ -43,15 +43,20 @@ redirect_from:
   Duration: 2013 - 2015 <br>
   **GPA:** 5.00/5.00 scale <br>
 
-## Research Experience
+## Research Experiences
 
 ---
 
-### Conference Proceedings
-
-- **F. Mahmud**, M. M. Mahfiz, M. Z. I. Kabir and Y. Abdullah, **"An Interpretable Deep Learning Approach for Skin Cancer Categorization,"** 2023 26th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: [10.1109/ICCIT60459.2023.10508527](https://ieeexplore.ieee.org/document/10508527).
-
-- **F. Mahmud**, Y. Abdullah, M. Islam and T. Aziz, **"Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach,"** 2023 26th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: [10.1109/ICCIT60459.2023.10441026](https://ieeexplore.ieee.org/document/10441026).
+### Research Student (Jan’22 – Present)
+#### **MTR lab** at the **Department of Microbiology & Hygiene**, Bangladesh Agricultural 
+University under the supervision of **Prof. Md Tanvir Rahman**
+#####  Gathered Experience in:
+- Sample collection (Blood, Organs, Tissues, swabs), Sample preparation, Necropsy.
+-  **Microbiological techniques:** Isolation, cultivation, reviving, and identification of 
+microorganisms using colony morphology, gram staining, different biochemical tests, 
+Antibiotic Sensitivity Test, Biofilm microplate test, Tube adherence test.
+- **Molecular biology techniques:** DNA extraction, PCR, Gel electrophoresis 
+- Serological Test: ELISA
 
 ## Skills
 
