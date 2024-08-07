@@ -54,8 +54,7 @@ expression.
 
 ## Research Experiences:
 ### Research Student (Jan’22 – Present)
-#### **MTR lab** at the **Department of Microbiology & Hygiene**, Bangladesh Agricultural 
-University under the supervision of **Prof. Md Tanvir Rahman**
+### **MTR lab** at the **Department of Microbiology & Hygiene**, Bangladesh Agricultural University under the supervision of **Prof. Md Tanvir Rahman**
 #####  Gathered Experience in:
 - Sample collection (Blood, Organs, Tissues, swabs), Sample preparation, Necropsy.
 -  **Microbiological techniques:** Isolation, cultivation, reviving, and identification of 
