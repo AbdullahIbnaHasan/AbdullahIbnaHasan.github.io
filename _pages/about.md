@@ -19,6 +19,7 @@ redirect_from:
 ---
 ## Research Interests:
 - Antibiotic Resistance
+- Biofilms
 - Host-Microbe interactions
 - Novel Vaccine discovery
 - Food Safety
