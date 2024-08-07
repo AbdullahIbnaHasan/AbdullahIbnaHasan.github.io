@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- MS -->
 - [**Bangladesh Agricultural University**](https://bau.edu.bd/) <br>
-  Master's of Science (MS) in Microbiology (Ongoing) <br>
+  Master of Science (MS) in Microbiology (Ongoing) <br>
   Department of Microbiology & Hygiene <br>
   **Thesis Title:** Diversity, Antibiotic Resistance, and Biofilm-Forming Ability of Enterobacteria Isolated 
   from Red Meats.
