@@ -71,7 +71,31 @@ Antibiotic Sensitivity Test, Biofilm microplate test, Tube adherence test.
 - **Molecular biology techniques:** DNA extraction, PCR, Gel electrophoresis 
 - Serological Test: ELISA
 
+## Training:
+---
+### Basic Knowledge of Computer and Microsoft Office applications (Feb’24-Mar’24)
+Arranged by: Graduate Training Institute & ICT Ministry of Bangladesh <br>
+Duration: 20 days
+- Professional software, operations, and maintenance.
+- About LinkedIn, Freelancing profile & freelancing activities.
+- Data analysis by using Microsoft Excel.
+
+### Hands-on practice of Disease Investigation - 2022 at Bogura (24th Jun’22 - 26th Jun’22)
+Arranged by: Department of Pathology, Faculty of Veterinary Science.
+Duration: 3 days 
+- Performing surveys in different poultry farms.
+- Visiting feed mills, government poultry farm & learn their technologies.
+- Participating in seminars, field visits, presentations, and report writings.
+
+### Agricultural Extension Field Trip at Belkuchi, Sirajganj (13th Nov’22 – 18th Nov’22)
+Arranged by: Department of Agricultural Extension Education, BAU. 
+Duration: 6 days 
+- Interviewing and disseminating technology among farmers.
+- Participating in seminars, field visits, vaccination camps, presentations, group discussions, and 
+report writings.
+
 ## Awards & Achievements:
+---
 ### Certifications:
 - Veterinary Practitioner, [Bangladesh Veterinary Council (BVC)](https://bvc.gov.bd/). Registration Number: 8801
 - Certificate of Participation on a week-long **“Extension Field Trip program”, Department of 
@@ -88,34 +112,3 @@ Agricultural Extension Education, BAU, November 2022**
 - **Soft skills:** Microsoft Excel, Microsoft Word, PowerPoint
 - **Laboratory skills:** Sample collection, sample preservation, Media preparation, Bacteria culture and isolation, Antibiotic sensitivity test (Disk test), PCR, Gel electrophoresis, Gram staining, ELISA, Necropsy
 - **Communication Skills:** English, Bangla, Japanese (Basic)
-
-
-## Additional Information
-
----
-
-### Test Scores
-
-- **IELTS:** 7 (Listening – 7, Reading – 8, Writing – 6.5, Speaking – 6.5)
-
-### Online Courses
-
-- [Supervised Machine Learning: Regression and Classification](https://drive.google.com/file/d/1592gKiGx4RBaX-qVjGoCqRWMzt_gBZEq/view?usp=sharing)
-- [Python Data Structures](https://drive.google.com/file/d/1KK7788_l5jodmWVohyH_nF9d33bWryMd/view?usp=sharing)
-- [Programming for Everybody (Getting Started with Python)](https://drive.google.com/file/d/1EUhS_ZHgxutxNrUfLF-Y7Sa8Q68xavXY/view?usp=sharing)
-
-### Conference
-
-- **26th International Conference on Computer and Information Technology ([ICCIT 2023](https://iccit.org.bd/2023/)):** I presented 2 of our research papers at this conference ([Certificate - 1](https://drive.google.com/file/d/1xW9Fgn-PXslJlvNPdDQyWUnYKKWskfu-/view), and [Certificate – 2](https://drive.google.com/file/d/1PQpYRBYVQb_31tsyCktVvuGsxDwl-tBG/view))
-
-### Co-Curricular Activities
-
-- **Intra AUST Programming Contest:** Fall 2018 [[Certificate](https://drive.google.com/file/d/1IjfGQLQ2qvr8J9xvyD5PFz8qxoeynow9/view)]
-- **Intra AUST Programming Contest:** Spring 2019 [[Certificate](https://drive.google.com/file/d/1cgZ9grZtdyfVkGXuJCyJO_91rH7bseVS/view)]
-- **Inter-University Event:** Created a Soccer Bot and participated in that event [[Certificate]](https://drive.google.com/file/d/11-42c21UQQ8eurUBBX4N6l47OjlrkFna/view)
-
-### Volunteer Activity
-
-- **University Transport Ordinator:** I Ensured daily safe transportation for nearly 200 students by actively maintaining our university bus route, demonstrating a commitment to reliability and safety.
-
-
