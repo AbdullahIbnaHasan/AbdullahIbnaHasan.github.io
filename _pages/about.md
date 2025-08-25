@@ -11,7 +11,7 @@ redirect_from:
 
 Hello, 
 
-This is Dr. Md Abdullah Evna Hasan, I have completed my DVM degree (2018-2023) from  <a href="https://bau.edu.bd/">Bangladesh Agricultural University</a>. Currently, I am pursuing my Master's Degree in Microbiology at the <a href="https://vmh.bau.edu.bd/">Department of Microbiology And Hygiene</a> as well as working as a Graduate Research Assistant at <a href="https://vmh.bau.edu.bd/profile/VMH1005">Professor Dr. Tanvir Rahman</a>'s Lab since April 2024. I am working on various projects involving organisms such as *Enterococcus spp. , E coli and pseudomonas spp*. 
+This is Dr. Md Abdullah Evna Hasan, I have completed my DVM degree (2018-2024) from  <a href="https://bau.edu.bd/">Bangladesh Agricultural University</a>. Currently, I am pursuing my Master's Degree in Microbiology at the <a href="https://vmh.bau.edu.bd/">Department of Microbiology And Hygiene</a> as well as working as a Graduate Research Assistant at <a href="https://vmh.bau.edu.bd/profile/VMH1005">Professor Dr. Md. Tanvir Rahman</a>'s Lab since April 2024. I am working on various projects involving organisms such as *Enterococcus spp. , E coli and pseudomonas spp*. 
   
 I have good communication and leadership skills. Also possess an enthusiastic, optimistic, and quick learning spirit of working hard to improve skills and assimilate new techniques and technologies, applying them consciously to make productive and successful outcomes. I strongly believe in teamwork and always takes care of my responsibilities. 
 

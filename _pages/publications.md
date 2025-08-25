@@ -9,8 +9,13 @@ author_profile: true
 
 <!-- Paper 02 -->
 
-<!-- 
-📌 **F. Mahmud**, M. M. Mahfiz, M. Z. I. Kabir and Y. Abdullah, **"An Interpretable Deep Learning Approach for Skin Cancer Categorization,"** 2023 26th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: [10.1109/ICCIT60459.2023.10508527](https://ieeexplore.ieee.org/document/10508527).
--->
+
+### Prevalence and Antibiotic Resistance of Escherichia coli in Urban and Peri-urban Garden Ecosystems in Bangladesh [ResearchGate](https://www.researchgate.net/publication/388653151_Prevalence_and_Antibiotic_Resistance_of_Escherichia_coli_in_Urban_and_Peri-urban_Garden_Ecosystems_in_Bangladesh)
+
+**Md Abdullah Evna Hasan**, Pritom Kumar Pramanik, Md.Tanvir Rahman
+
+Conference: The 31st BSVER Annual Scientific ConferenceAt: Bangladesh Agricultural University, Mymensingh
+
+February 2025
 
 ---
