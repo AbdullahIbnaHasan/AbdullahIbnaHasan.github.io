@@ -9,11 +9,8 @@ redirect_from:
 ---
 
 
-Hello, 
-
-This is Md Abdullah Evna Hasan, I have completed my DVM degree (2018-2024) from  <a href="https://bau.edu.bd/">Bangladesh Agricultural University</a>. Currently, I am pursuing my Master's Degree in Microbiology at the <a href="https://vmh.bau.edu.bd/">Department of Microbiology And Hygiene</a> as well as working as a Graduate Research Assistant at <a href="https://vmh.bau.edu.bd/profile/VMH1005">Professor Dr. Md. Tanvir Rahman</a>'s Lab since April 2024. I am working on various projects involving various organisms such as *Enterococcus spp., E coli, pseudomonas spp., and Klebsiella pneumoniae*. 
-  
-I have good communication and leadership skills. Also possess an enthusiastic, optimistic, and quick learning spirit of working hard to improve skills and assimilate new techniques and technologies, applying them consciously to make productive and successful outcomes. I strongly believe in teamwork and always takes care of my responsibilities. 
+I am Md Abdullah Evna Hasan, a veterinary microbiologist with a strong focus on antimicrobial resistance, nosocomial infections and emerging zoonotic threats. I completed my DVM (2018–2024) at <a href="https://bau.edu.bd/"> Bangladesh Agricultural University</a> and currently a MS FELLOW in Microbiology at the <a href="https://vmh.bau.edu.bd/"> Department of Microbiology and Hygiene </a>. Since April 2024, I have been working as a Graduate Research Assistant in <a href="https://vmh.bau.edu.bd/profile/VMH1005"> Professor Dr. Md. Tanvir Rahman </a>’s Laboratory, where I investigate nosocomial and ESKAPE pathogens (Enterococcus spp., Escherichia coli, Pseudomonas spp., and Klebsiella pneumoniae) in veterinary environments including livestock, poultry, and surrounding ecosystems.
+Through these experiences, I have built strong expertise in pathogen detection and molecular characterization, while cultivating a deep commitment to tackling the global challenge of antimicrobial resistance. I am particularly driven to explore how resistant pathogens circulate across animals, humans, and the environment, and to translate this knowledge into One Health–based solutions. With curiosity, determination, and a collaborative spirit, my ultimate goal is to contribute meaningfully to global efforts against drug-resistant infections and the protection of public health.
 
 
 ---
