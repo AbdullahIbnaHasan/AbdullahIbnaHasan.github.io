@@ -10,8 +10,10 @@ author_profile: true
   Master of Science (MS) in Microbiology (Ongoing) <br>
   Department of Microbiology & Hygiene <br>
    **CGPA:** 3.91 out of 4.00 (1st)<br>
-  **Thesis Title:** Risk Assessment and Molecular Characterization of ESBL-Producing, Carbapenem-Resistant Klebsiella pneumoniae isolated from Ornamental Birds and Surrounding Environments
-  **Supervisor:** [Dr. Md. Tanvir Rahman](https://vmh.bau.edu.bd/profile/VMH1005), Professor, Department of Microbiology & Hygiene, BAU
+  **Thesis Title:** Risk Assessment and Molecular Characterization of ESBL-Producing, Carbapenem-Resistant *Klebsiella pneumoniae* isolated from Ornamental Birds and Surrounding Environments  <br>
+  **Supervisor:** [Dr. Md. Tanvir Rahman](https://vmh.bau.edu.bd/profile/VMH1005), Professor, Department of Microbiology & Hygiene, BAU <br>
+  **Funding:** National Science and Technology (NST) Fellowship
+
 
 <!-- DVM -->
 - [**Bangladesh Agricultural University**](https://bau.edu.bd/) <br>
