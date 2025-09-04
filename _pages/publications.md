@@ -8,11 +8,8 @@ author_profile: true
 
 
 ## Total Publications: 4
-
 ---
-
 ### 2025
-
 ---
 <div class="publication-item">
 
