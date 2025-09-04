@@ -7,7 +7,13 @@ author_profile: true
 
 
 
-<!-- Paper 02 -->
+## Total Publications: 217
+
+---
+
+### 2025
+
+---
 
 <div class="publication-item">
 
