@@ -7,10 +7,21 @@ author_profile: true
 
 
 
-## Total Publications: 4
+## Total Publications: 05
 ---
 ### 2025
 ---
+<div class="publication-item">
+
+<h3>5. <a href="https://www.sciencedirect.com/science/article/pii/S2352771425002642">Impact of open markets on zoonotic threats and antimicrobial resistance: A One Health concern</a></h3>
+
+<span class="tag">One Health</span>
+
+<p>Author List:<strong> Hasan, M.A.E.</strong>, Islam, M.S., Fahim, N.A.I., Antor, M.T.H., Salam, S., Jahan, R., Masud, R.I., Bakhtiyar, Z., Jany, D.A., Rana, M.L. and Punom, S.A., 2025. Impact of open markets on zoonotic threats and antimicrobial resistance: A one health concern. One Health, p.101228.  <br>
+Published at: 2025/10/04</p>
+
+</div>
+
 <div class="publication-item">
 
 <h3>4. <a href="https://link.springer.com/article/10.1007/s11356-025-36835-0">Environmental distribution of biofilm-forming antibiotic-resistant Escherichia coli associated with plastic surface materials</a></h3>
