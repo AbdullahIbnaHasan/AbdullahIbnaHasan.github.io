@@ -7,10 +7,18 @@ author_profile: true
 
 
 
-## Total Publications: 05
+## Total Publications: 06
 ---
 ### 2025
 ---
+<div class="publication-item">
+
+<h3>6. <a href="https://www.sciencedirect.com/science/article/pii/S2352771425002733">Prevalence of extended-spectrum beta-lactamase-producing Enterobacteriaceae isolated from animals in Bangladesh: A systematic review and meta-analysis</a></h3>
+
+<span class="tag">One Health</span>
+
+<p>Author List: Rahaman, A., Mimi, A., Antor, M.T.H., Bakhtiyar, Z.,<strong>  Hasan, M.A.E.</strong>, Fahim, N.A.I., Jany, D.A. and Rahman, M.T., 2025. Prevalence of extended-spectrum beta-lactamase-producing Enterobacteriaceae isolated from animals in Bangladesh: A systematic review and meta-analysis. One Health, p.101237.
+Published at: 2025/10/11</p>
 <div class="publication-item">
 
 <h3>5. <a href="https://www.sciencedirect.com/science/article/pii/S2352771425002642">Impact of open markets on zoonotic threats and antimicrobial resistance: A One Health concern</a></h3>
